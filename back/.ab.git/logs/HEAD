@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 2aef44909b461e9af81173e0930754afee59e3e8 Pedro Henrique Spelta <80366307+PedroSpelta@users.noreply.github.com> 1644914918 -0300	commit (initial): Adding a route for lists
+2aef44909b461e9af81173e0930754afee59e3e8 6c23ef826fd0f287513c9515d4550d51f672a18e Pedro Henrique Spelta <80366307+PedroSpelta@users.noreply.github.com> 1644979740 -0300	commit: Adding post/list/add-task/userId to add task to a list
+6c23ef826fd0f287513c9515d4550d51f672a18e 1e4801b618a040e670f76bdf3957a5ccdf02da11 Pedro Henrique Spelta <80366307+PedroSpelta@users.noreply.github.com> 1644992612 -0300	commit: Adding post/lists/delete-task to delete a task on selected list
+1e4801b618a040e670f76bdf3957a5ccdf02da11 db67a607554b335ff6109da20f2469b693e129da Pedro Henrique Spelta <80366307+PedroSpelta@users.noreply.github.com> 1645045753 -0300	commit: Changing task id to createdAt

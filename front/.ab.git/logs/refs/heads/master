@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 649673cc8d4405fba9341aae5b35309f6a45a14c Pedro Henrique Spelta <80366307+PedroSpelta@users.noreply.github.com> 1644865984 -0300	commit (initial): Initialize project using Create React App
+649673cc8d4405fba9341aae5b35309f6a45a14c 112fdb4cf9b8f28bc7bbe041ccf3e4722775230a Pedro Henrique Spelta <80366307+PedroSpelta@users.noreply.github.com> 1644877002 -0300	commit: Making a context and a sidebar
+112fdb4cf9b8f28bc7bbe041ccf3e4722775230a 2836fa08b17c8c1472175ebfe915c980b4c4e654 Pedro Henrique Spelta <80366307+PedroSpelta@users.noreply.github.com> 1644950485 -0300	commit: Making the sidebar style change with selection
+2836fa08b17c8c1472175ebfe915c980b4c4e654 31e389b67c3a19719c6a490449ca75dc144cb6c8 Pedro Henrique Spelta <80366307+PedroSpelta@users.noreply.github.com> 1644954028 -0300	commit: Adding a component to add a list
+31e389b67c3a19719c6a490449ca75dc144cb6c8 967a3feeb8b42c1aad66044b7e885a843d1ec06e Pedro Henrique Spelta <80366307+PedroSpelta@users.noreply.github.com> 1644964875 -0300	commit: Adding the function to change the lists
+967a3feeb8b42c1aad66044b7e885a843d1ec06e 455ecea7330aafcdcafa49e97c1629349280c1d1 Pedro Henrique Spelta <80366307+PedroSpelta@users.noreply.github.com> 1644966015 -0300	commit: Adding ref and focus to both inputs
+455ecea7330aafcdcafa49e97c1629349280c1d1 ca6acba83a1cdca95a395190bd2610c9b776f537 Pedro Henrique Spelta <80366307+PedroSpelta@users.noreply.github.com> 1644985345 -0300	commit: Adding a task to a list
+ca6acba83a1cdca95a395190bd2610c9b776f537 10a0d3c0e4a88634f34a4d5570062fceab172ca3 Pedro Henrique Spelta <80366307+PedroSpelta@users.noreply.github.com> 1645045733 -0300	commit: Changing task id to createdAt
+10a0d3c0e4a88634f34a4d5570062fceab172ca3 16b2b4f0244818f359ccc705568e80cb9d858394 Pedro Henrique Spelta <80366307+PedroSpelta@users.noreply.github.com> 1645057950 -0300	commit: Adding a function to sort tasks
+16b2b4f0244818f359ccc705568e80cb9d858394 82b8f85824fdda8c1e4ea72b6f32722887a0b506 Pedro Henrique Spelta <80366307+PedroSpelta@users.noreply.github.com> 1645100744 -0300	commit: Adding a header to the task area
